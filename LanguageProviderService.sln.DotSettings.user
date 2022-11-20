@@ -1,0 +1,44 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/mhorner/Library/Caches/JetBrains/Rider2022.3/resharper-host/temp/Rider/vAny/CoverageData/_LanguageProviderService.2090041200/Snapshot/snapshot.utdcvr</s:String>
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=13aa33b1_002D68b1_002D4ab7_002Da28e_002D07a8e6c77d61/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MessageControllerTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::726502A6-15EC-4FC7-9197-C8A48A8ACC56::net6.0::Tests.Controllers.Messages.MessageControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1d70f8b1_002D75ae_002D4bfc_002D96bb_002D7557cbfcbf5c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MessageControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::726502A6-15EC-4FC7-9197-C8A48A8ACC56::net6.0::Tests.Controllers.Messages.MessageControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=462b8093_002D3ddc_002D4589_002D97a6_002D8cfc55c732ef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MessageControllerTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::726502A6-15EC-4FC7-9197-C8A48A8ACC56::net6.0::Tests.Controllers.Messages.MessageControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7a2cb57a_002Dea12_002D4a2a_002Da721_002Deb001c73b307/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetMessageByKey" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;726502A6-15EC-4FC7-9197-C8A48A8ACC56/d:Controllers/d:Messages/f:MessageControllerTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=84654c0f_002D263c_002D4e88_002D8d3b_002De4e7bb5f7b19/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateMessage_FailsWhenAMessageExistsWithTheSameKey" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::726502A6-15EC-4FC7-9197-C8A48A8ACC56::net6.0::Tests.Controllers.Messages.MessageControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c737710d_002D2c8e_002D44a8_002D846f_002D6f8db50ab6cd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAllMessages_ReturnsAllMessagesForEnUs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::726502A6-15EC-4FC7-9197-C8A48A8ACC56::net6.0::Tests.Controllers.Messages.MessageControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ebf799d2_002D7533_002D4025_002D95ab_002D03e249445592/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MessageControllerTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::24DF19EE-FA01-45E7-B73D-9DE9EFCAC076::net6.0::Tests.Controllers.Messages.MessageControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
+	</wpf:ResourceDictionary>
